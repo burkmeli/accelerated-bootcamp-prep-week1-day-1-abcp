@@ -15,3 +15,4 @@ console.log("Of" + totalSum + " some portion derives from music sales.")
 // total sum, so that you don't have to add up all those numbers three times
 
 
+
